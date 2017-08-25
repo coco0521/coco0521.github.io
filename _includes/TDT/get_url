@@ -1,0 +1,49 @@
+{% comment %}
+<!--
+The `get_url` try to judge currently passed url is a relative url or absolute url.
+
+**WARNING**
+
+DON'T DEFINED `_temp_url` and `_url_`
+
+**YOU MUST PASS:**
+
+1. _temp_url: this is the url before process
+
+**YOU WILL GET:**
+
+1. _url_: this is the url after process
+
+
+If it is a absolute url, and it start with '/', should add `BASE_PATH`(It is defined in TDT/setup).
+
+### Valid url:
+1. http://foo.com/bar?baz
+2. ?qoo=qalue
+3. /bar2
+4. dat/sly
+5. //auth.foo.com (most people are surprised by this one! Will use http or https, depending on the current resource)
+6. \#anchor(Note:Because sharp is defined in Markdown, so need to use \#)
+
+### Why need to add `BASE_PATH`
+When we configure the URL in ActiveSpaces, whatever relative or absolute url it is relative to `_site`,
+but we don't know what is the relation ship between `_site` with **root folder**, sometimes `_site` isn't **root folder**.
+
+**Take an example:**
+
+when we deploy `as-website` to github, and generate github page for it. The url is [http://tibcosoftware.github.io/as-website/](http://tibcosoftware.github.io/as-website/).
+so the `BASE_PATH` should be `/as-website`.
+
+-->
+{% endcomment %}
+{% assign __open_new_tab__ = false %}
+{% if _temp_url contains 'http://' or _temp_url contains 'https://' or _temp_url contains 'files://' _temp_url contains 'ftp://'%}
+    {% assign _url_ = _temp_url %}
+    {% assign __open_new_tab__ = true %}
+{% elsif _temp_url contains './' or _temp_url contains '../' or _temp_url contains '#' %}
+	{% assign _url_ = _temp_url %}
+{% else %}
+    {% comment %} <!-- This means this url should be a absolute url. For example: /tools/delimitedfiles/index.html --> {% endcomment %}
+    {% capture _url_ %}{{ BASE_PATH }}{{_temp_url}}{% endcapture %}
+{% endif %}
+

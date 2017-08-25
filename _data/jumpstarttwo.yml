@@ -1,0 +1,20 @@
+- url: ../assets/themes/as/images/TAS7715.png
+  title: TAS7715 - [ ASMM Installation and Configuration(Windows) ]
+  desc: This movie shows you the steps to configure and troubleshoot the ActiveSpaces Monitoring and Management utility (ASMM) in TIBCO ActiveSpaces v2.1.x. 
+  link: //www.youtube.com/embed/4CK5YtpHKk0?list=PLnmoGGHHJldiCwsfzlgHo1agWIwz-jKhM
+- url: ../assets/themes/as/images/TAS7006.png
+  title: TAS7006 - [ Monitor Spaces with ASMM v2.x (Linux) ]
+  desc: This movie shows you the steps to configure a Linux environment for TIBCO ActiveSpaces v2.x.
+  link: //www.youtube.com/embed/oD1Xyvyl5tc?list=PLnmoGGHHJldiCwsfzlgHo1agWIwz-jKhM
+- url: ../assets/themes/as/images/TAS7717.png
+  title: TAS7717 - [ Predicting Basic Space Operations Behavior with ASOperations ]
+  desc: This movie shows you the expected behavior when you perform Space operations on a TIBCO ActiveSpaces v2.x "Space". The demonstration shows you how to PUT, TAKE, and GET Entries from a Space, and how to monitor the behavior of these operations using the ActiveSpaces Monitoring and Management (ASMM) utility.
+  link: //www.youtube.com/embed/4AsXQRzihz8?list=PLnmoGGHHJldiCwsfzlgHo1agWIwz-jKhM 
+- url: ../assets/themes/as/images/TAS7718.png
+  title: TAS7718 - [ Predicting Space Transaction Behavior with ASOperations ]
+  desc: In this movie you learn the steps to test "all-or-nothing" Metaspace Transaction groupings in TIBCO ActiveSpaces v2.1.x. You learn the steps to use the ASOperations example program and the ASMM GUI tool to begin a transaction and bundle together various Space operations. Then you learn to predict the behavior when a Transaction is abandoned or intentionally rolled back.
+  link: //www.youtube.com/embed/eSQohaKTUiI?list=PLnmoGGHHJldiCwsfzlgHo1agWIwz-jKhM
+- url: ../assets/themes/as/images/TAS7719.png
+  title: TAS7719 - [ Predicting Behavior of Batch Put Operations and  Fail Over Behavior ]
+  desc: In this movie you learn the steps to observe the effects of batch operations on seeders in TIBCO ActiveSpaces v2.1.x. The ASOperations Java example is used to PUT 100,000 data tuples into a Space. In the ASMM GUI you observe how the tuples are distributed between two as-agent seeder processes, and you observe how data is replicated.
+  link: //www.youtube.com/embed/np2WA3VjzEE?list=PLnmoGGHHJldiCwsfzlgHo1agWIwz-jKhM

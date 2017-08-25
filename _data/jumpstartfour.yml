@@ -1,0 +1,4 @@
+- url: ../assets/themes/as/images/TAS7733.png
+  title: TAS7733 - [ SpotFire DataSource demo - Joining Spaces with OnDemand Tables ]
+  desc: This movie shows you the steps to create and use dynamic OnDemand tables for TIBCO ActiveSpaces v2.1.x data sources. This technique lets you create “Master/Detail” data relationships where the “Detail” data can be stored in a massive data store, but you only load matching related Space entries, as needed, into TIBCO SpotFire working memory.
+  link: //www.youtube.com/embed/MYVGXnz3Z3g?list=PLnmoGGHHJldiCwsfzlgHo1agWIwz-jKhM

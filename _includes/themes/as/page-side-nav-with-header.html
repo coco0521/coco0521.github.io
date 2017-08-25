@@ -1,0 +1,51 @@
+<div class="toolhead">
+    <p class="tooltitle">{{ page.subhead }}</p>
+    <p class="tdetail">{{ page.detail }}</p>
+</div>
+<div class="container-fluid adwidth">
+	<div class="row noMargin">
+		<div class="col-lg-3 col-md-3 col-sm-3 noPadding">
+			{% include TDT/get_side_nav_list %}
+			{% include themes/as/side-nav-with-header.html %} 
+		</div>
+		<div class="col-lg-9 col-md-9 col-sm-9 forIe">
+		  <div class="as-docs-content-container">
+		    {{ content }}
+		  </div>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+	$(document).ready(function(){
+		var $lside = $('#lside');
+		if(!$lside.html().replace(/\s*/,'')){
+			$lside.removeClass('sideborder');
+		}
+  });
+
+  $(document).ready(function(){
+  	$(window).scroll(function(){
+  		var topHeight = $('#topHeader').outerHeight(true) + $('.toolhead').outerHeight(true);
+  		if ($(window).scrollTop() < topHeight){
+  			$('#lside').removeClass('affix');
+  		}else{
+  			$('#lside').addClass('affix');
+  		};
+  		if($(window).width() < 749){
+  	 		$('#lside').css('position','relative');
+  	 		$('#lside').css('width','100%');
+  		}
+  	})
+  })
+
+  $(document).ready(function(){
+    $(window).bind('touchmove',function(){
+      var topHeight = $('#topHeader').outerHeight(true) + $('.toolhead').outerHeight(true);
+      if ($(window).scrollTop() < topHeight){
+        $('#lside').removeClass('affix');
+      }else{
+        $('#lside').addClass('affix');
+      };
+    })
+  })
+</script>

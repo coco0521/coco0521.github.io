@@ -1,0 +1,20 @@
+- url: ../assets/themes/as/images/TAS7701.png
+  title: TAS7701 - [ How to Install TIBCO ActiveSpaces v2.1.x ]
+  desc: This movie shows you the steps to download and install the free community edition of TIBCO ActiveSpaces v2.1.x.
+  link: //www.youtube.com/embed/xoitXa46Xvs
+- url: ../assets/themes/as/images/TAS7702.png
+  title: TAS7702 - [ Post Installation Steps ]
+  desc: This movie shows you post installation steps to configure your host to develop and run TIBCO ActiveSpaces applications, as well as how to verify your installation and configuration.
+  link: //www.youtube.com/embed/o6EOfIVBlXQ
+- url: ../assets/themes/as/images/TAS7703.png
+  title: TAS7703 - [ Testing Cluster Discovery and Network Connectivity ]
+  desc: This movie shows you the steps to test and troubleshoot a new TIBCO ActiveSpaces v2.x installation, to test Metaspace discovery is working correctly, and to troubleshoot common network connectivity issues that can prevent proper discovery.
+  link: //www.youtube.com/embed/74wyfkcOPCk?list=PLnmoGGHHJldiCwsfzlgHo1agWIwz-jKhM
+- url: ../assets/themes/as/images/TAS7704.png
+  title: TAS7704 - [ Upgrading Versions ]
+  desc: This movie shows you the steps to upgrade your TIBCO ActiveSpaces installation, or to install multiple versions on the same host machine, by using separate TIBCO_HOME locations.
+  link: //www.youtube.com/embed/dkR_hd2Dohk?list=PLnmoGGHHJldiCwsfzlgHo1agWIwz-jKhM
+- url: ../assets/themes/as/images/TAS7005.png
+  title: TAS7005 - [ Config TAS 2.1.2 Environment Linux ]
+  desc: This movie shows you the steps to configure a Linux environment for TIBCO ActiveSpaces v2.x. 
+  link: //www.youtube.com/embed/d_ST8yBUlrY

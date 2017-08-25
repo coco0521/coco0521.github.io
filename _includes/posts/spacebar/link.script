@@ -1,0 +1,3 @@
+# refer to https://github.com/TIBCOSoftware/as-spacebar/tree/master/spacebar-repository/src/site
+
+ln -s ../../../../as-spacebar/spacebar-repository/src/site

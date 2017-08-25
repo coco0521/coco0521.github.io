@@ -1,0 +1,369 @@
+/*rewrite the bootstrap*/
+@media (max-width: 767px) {
+  table tr td{
+    font-size: 14px;
+  }
+  .maintitle{
+    font-size: 36px;
+  }
+  .detail{
+    font-size: 16px;
+    margin-top:30px;
+    margin-bottom: 30px;
+  }
+  a.download{
+    width: 80px;
+    font-size: 12px;
+    padding: 5px;
+    margin:15px auto;
+  }
+  .contitle{
+    font-size: 20px;
+  }
+  .foolist li p.fltitle{
+    margin-top:15px;
+  }
+  p.listitle{
+    font-size: 18px;
+  }
+  p.listcontent{
+    font-size: 14px
+  }
+  .tooltitle{
+    font-size: 24px;
+  }
+  .othh4{
+    font-size: 6px;
+  }
+  .carousel-caption p{
+    font-size: 6px
+  }
+  .carousel-control{
+    width:4.167%;
+    font-size:20px;
+    line-height: 50%;
+    border-radius:23px;
+  }
+  .leftside{
+    margin: 40px 0 0 0px;
+  }
+  #lside{
+    padding:20px 0 20px 20px;
+  }
+  #myCarousel{
+    display: none;
+  }
+  .vidTitle{
+    font-size: 24px;
+    margin-bottom: 50px;
+  }
+  .videopart{
+    padding: 50px 0 70px 0;
+  }
+  .playDiv{
+    top: 100px;
+  }
+  .iframeW{
+    height: 400px;
+  }
+  .viconSize{
+    margin-top: 25%;
+  }
+  .videoshead{
+    height: 270px;
+  }
+  .videostitle{
+    font-size: 36px;
+  }
+  .vdetail{
+    font-size: 16px;
+  }
+  .vidListhead{
+    height: 50px;
+  }
+  .vidListhead ul li{
+    line-height: 50px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  table tr td{
+    font-size: 14px;
+  }
+  .maintitle{
+    font-size: 52px;
+  }
+  .detail{
+    font-size: 24px;
+    margin-top:50px;
+    margin-bottom: 50px;
+  }
+  a.download{
+    width: 135px;
+    font-size: 14px;
+    padding: 10px;
+    margin:20px auto;
+  }
+  .contitle{
+    font-size: 40px;
+  }
+  p.listitle{
+    font-size: 20px;
+  }
+  p.listcontent{
+    font-size: 14px;
+  }
+  .tooltitle{
+    font-size: 24px;
+  }
+  .othh4{
+    font-size: 16px;
+  }
+  .carousel-caption p{
+    font-size: 14px
+  }
+  .carousel-control{
+    width:4.167%;
+    font-size:40px;
+    line-height: 34%;
+    border-radius:23px;
+  }
+  .leftside{
+    margin: 40px 0 0 15px;
+  }
+  #lside{
+    padding:20px 0 20px 20px;
+  }
+  #myCarousel{
+    display: none;
+  }
+  .affix{
+    width: 21.64276%;
+  }
+  .vidTitle{
+    font-size: 40px;
+    padding-bottom: 80px;
+  }
+  .videopart{
+    padding: 80px 0 70px 0;
+  }
+  .playDiv{
+    top:100px;
+  }
+  .iframeW{
+    height: 400px;
+  }
+  .viconSize{
+    margin-top: 16%;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+  table tr td{
+    font-size: 16px;
+  }
+  .maintitle{
+    font-size: 60px;
+  }
+  .detail{
+    font-size: 24px;
+    margin-top:50px;
+    margin-bottom: 50px;
+  }
+  a.download{
+    width: 175px;
+    font-size: 16px;
+    padding: 10px;
+    margin:20px auto;
+  }
+  .contitle{
+    font-size: 48px;
+  }
+  p.listitle{
+    font-size: 24px;
+  }
+  p.listcontent{
+    font-size: 14px;
+  }
+  .tooltitle{
+    font-size: 30px;
+  }
+  .othh4{
+    font-size: 18px;
+  }
+  .carousel-caption p{
+    font-size: 16px
+  }
+  .carousel-control{
+    width:4.167%;
+    font-size:50px;
+    line-height: 34%;
+    border-radius:23px;
+  }
+  .leftside{
+    margin: 40px 0 0 15px;
+  }
+  #lside{
+    padding:20px 0 20px 20px;
+  }
+  #myCarousel{
+    display: block;
+  }
+  .affix{
+    width: 233px;
+  }
+  .vidTitle{
+    font-size: 48px;
+    margin-bottom: 80px;
+  }
+  .videopart{
+    padding: 80px 0 70px 0;
+  }
+  .playDiv{
+    top:100px;
+  }
+  .iframeW{
+    height: 400px;
+  }
+  .viconSize{
+    margin-top: 50px;
+  }
+}
+
+@media (min-width: 1200px) and (max-width: 1919px) {
+  table tr td{
+    font-size: 18px;
+  }
+  .maintitle{
+    font-size: 72px;
+  }
+  .detail{
+    font-size: 26px;
+    margin-top:20px;
+    margin-bottom: 20px;
+  }
+  a.download{
+    width: 180px;
+    font-size: 18px;
+    padding: 10px;
+    margin:20px auto;
+  }
+  .contitle{
+    font-size: 60px;
+  }
+  p.listitle{
+    font-size: 28px;
+  }
+  p.listcontent{
+    font-size: 18px;
+  }  
+  .tooltitle{
+    font-size: 42px;
+  }
+  .othh4{
+    font-size: 22px;
+  }
+  .carousel-caption p{
+    font-size: 18px
+  }
+  .carousel-control{
+    width:4.072%;
+    font-size:60px;
+    line-height: 33%;
+    border-radius:45px;
+  }
+  .leftside{
+    margin: 40px 0 0 15px;
+  }
+  #lside{
+    padding:20px 0 20px 20px;
+  }
+  #myCarousel{
+    display: block;
+  }
+  .affix{
+    width: 23.3333%;
+  }
+  .vidTitle{
+    font-size: 60px;
+    margin-bottom: 93px;
+  }
+  .videopart{
+    padding: 93px 0 70px 0;
+  }
+  .playDiv{
+    top:100px;
+  }
+  .iframeW{
+    height: 400px;
+  }
+}
+
+@media (min-width: 1920px){
+  table tr td{
+    font-size: 18px;
+  }
+  .maintitle{
+    font-size: 72px;
+  }
+  .detail{
+    font-size: 26px;
+    margin-top:20px;
+    margin-bottom: 20px;
+  }
+  a.download{
+    width: 180px;
+    font-size: 18px;
+    padding: 10px;
+    margin:20px auto;
+  }
+  .contitle{
+    font-size: 60px;
+  }
+  p.listitle{
+    font-size: 28px;
+  }
+  p.listcontent{
+    font-size: 18px;
+  }  
+  .tooltitle{
+    font-size: 42px;
+  }
+  .othh4{
+    font-size: 22px;
+  }
+  .carousel-caption p{
+    font-size: 18px
+  }
+  .carousel-control{
+    width:3.504%;
+    font-size:60px;
+    line-height: 45%;
+    border-radius:45px;
+  }
+  .leftside{
+    margin: 40px 0 0 15px;
+  }
+  #lside{
+    padding:20px 0 20px 20px;
+  }
+  #myCarousel{
+    display: block;
+  }
+  .affix{
+    width: 23.82956%;
+  }
+  .vidTitle{
+    font-size: 60px;
+    margin-bottom: 130px;
+  }
+  .videopart{
+    padding: 130px 0 70px 0;
+  }
+  .playDiv{
+    top:200px;
+  }
+  .iframeW{
+    height: 450px;
+  }
+}

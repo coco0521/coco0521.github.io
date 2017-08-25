@@ -1,0 +1,12 @@
+- url: /assets/themes/as/images/video_1.png
+  title: 2-Minute Explainer
+  desc: A very short introduction to TIBCO ActiveSpaces 
+  link: //www.youtube.com/embed/N9hiDJhj3b0
+- url: /assets/themes/as/images/video_2.png
+  title: Using ActiveSpaces with BusinessWorks
+  desc: A short video shows you the value of TIBCO's IN-memory datagrid in your BusinessWorks environment.
+  link: //www.youtube.com/embed/h7DBuuDoDr8
+- url: /assets/themes/as/images/video_3.png
+  title: White board session
+  desc: TIBCO Fellow Jean-Noel Moyne whiteboards TIBCO ActiveSpaces
+  link: //www.youtube.com/embed/ooYH4lWBoiw

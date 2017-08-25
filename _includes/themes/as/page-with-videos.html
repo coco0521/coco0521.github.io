@@ -1,0 +1,141 @@
+<script src="{{ ASSET_PATH }}/as/js/asvideos.js"></script>
+<div class="videoshead">
+    <p class="videostitle">{{ page.subhead }}</p>
+    <!-- <p class="vdetail">{{ page.detail }}</p> -->
+</div>
+<div class="overlay" style="display:none; width:1349px; height: 1696px;"></div>
+<div class="row videosCon">
+  <div class="vidList">
+  <p class="jumpstart">Jump Start: Getting Started with TIBCO ActiveSpaces v2.1.x (JS-TAS1001)</p>
+      {% for item in site.data.jumpstartone %}
+      <span class="glyphicon glyphicon-remove closebtn" style="display:none"></span>
+      <div class="playDiv" style="display:none">
+        <div class="" >
+          <div class="embed-responsive embed-responsive-16by9">
+            <iframe class="embed-responsive-item iframeW" src={{item.link}}></iframe>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 pull-left vidDiv">
+        <div class="wholeDiv">
+          <div class="mask">
+            <span class="glyphicon glyphicon-play-circle iconSize"></span>
+          </div>
+          <img class="videolist" src={{item.url}} class="img-responsive">
+          <p class="vidstitle">{{item.title}}</p>
+          <p class="vidscont">{{item.desc}}</p>
+        </div>
+      </div>
+      {% endfor %}
+</div>
+</div>
+<div class="row videosCon">
+  <div class="vidList">
+  <p class="jumpstart">Jump Start: Monitoring and Predicting Space Behavior (JS-TAS1002)</p>
+      {% for item in site.data.jumpstarttwo %}
+      <span class="glyphicon glyphicon-remove closebtn" style="display:none"></span>
+      <div class="playDiv" style="display:none">
+        <div class="" >
+          <div class="embed-responsive embed-responsive-16by9">
+            <iframe class="embed-responsive-item iframeW" src={{item.link}}></iframe>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 pull-left vidDiv">
+        <div class="wholeDiv">
+          <div class="mask">
+            <span class="glyphicon glyphicon-play-circle iconSize"></span>
+          </div>
+          <img class="videolist" src={{item.url}} class="img-responsive">
+          <p class="vidstitle">{{item.title}}</p>
+          <p class="vidscont">{{item.desc}}</p>
+        </div>
+      </div>
+      {% endfor %}
+</div>
+</div>
+<div class="row videosCon">
+  <div class="vidList">
+  <p class="jumpstart">Jump Start: Demonstrate ActiveSpaces Behavior and Concepts with the ASPaint Example (JS-TAS1003)</p>
+      {% for item in site.data.jumpstartthree %}
+      <span class="glyphicon glyphicon-remove closebtn" style="display:none"></span>
+      <div class="playDiv" style="display:none">
+        <div class="" >
+          <div class="embed-responsive embed-responsive-16by9">
+            <iframe class="embed-responsive-item iframeW" src={{item.link}}></iframe>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 pull-left vidDiv">
+        <div class="wholeDiv">
+          <div class="mask">
+            <span class="glyphicon glyphicon-play-circle iconSize"></span>
+          </div>
+          <img class="videolist" src={{item.url}} class="img-responsive">
+          <p class="vidstitle">{{item.title}}</p>
+          <p class="vidscont">{{item.desc}}</p>
+        </div>
+      </div>
+      {% endfor %}
+</div>
+</div>
+<div class="row videosCon">
+  <div class="vidList">
+  <p class="jumpstart">Jump Start: Integrating TIBCO SpotFire and TIBCO ActiveSpaces (JS-TAS1006)  </p>
+      {% for item in site.data.jumpstartfour %}
+      <span class="glyphicon glyphicon-remove closebtn" style="display:none"></span>
+      <div class="playDiv" style="display:none">
+        <div class="" >
+          <div class="embed-responsive embed-responsive-16by9">
+            <iframe class="embed-responsive-item iframeW" src={{item.link}}></iframe>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 pull-left vidDiv">
+        <div class="wholeDiv">
+          <div class="mask">
+            <span class="glyphicon glyphicon-play-circle iconSize"></span>
+          </div>
+          <img class="videolist" src={{item.url}} class="img-responsive">
+          <p class="vidstitle">{{item.title}}</p>
+          <p class="vidscont">{{item.desc}}</p>
+        </div>
+      </div>
+      {% endfor %}
+</div>
+</div>
+<div class="row videosCon">
+  <div class="vidList">
+  <p class="jumpstart">JumpStart: Using activespaces.tibco.com Examples and Tools (JS-TAS1007)</p>
+      {% for item in site.data.jumpstartfive %}
+      <span class="glyphicon glyphicon-remove closebtn" style="display:none"></span>
+      <div class="playDiv" style="display:none">
+        <div class="" >
+          <div class="embed-responsive embed-responsive-16by9">
+            <iframe class="embed-responsive-item iframeW" src={{item.link}}></iframe>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 pull-left vidDiv">
+        <div class="wholeDiv">
+          <div class="mask">
+            <span class="glyphicon glyphicon-play-circle iconSize"></span>
+          </div>
+          <img class="videolist" src={{item.url}} class="img-responsive">
+          <p class="vidstitle">{{item.title}}</p>
+          <p class="vidscont">{{item.desc}}</p>
+        </div>
+      </div>
+      {% endfor %}
+</div>
+</div>
+<div class="videosfooter">
+  <!-- <ul class="subfooter">               
+      <li><a href="#">6</a></li>
+      <li><a href="#">5</a></li>
+      <li><a href="#">4</a></li>
+      <li><a href="#">3</a></li>
+      <li><a href="#">2</a></li>
+      <li><a href="#">1</a></li>         
+  </ul> -->
+</div>

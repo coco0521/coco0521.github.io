@@ -1,0 +1,16 @@
+{% case page.top_nav_list_name %}
+    {% when 'activespaces' %}
+      {% assign top_nav_list = site.TDT.pages_list.activespaces %}
+    {% when 'delimitedfiles' %}
+      {% assign top_nav_list = site.TDT.pages_list.delimitedfiles %}
+    {% when 'jdbcdriver' %}
+      {% assign top_nav_list = site.TDT.pages_list.jdbcdriver %}
+    {% when 'spacebar' %}
+      {% assign top_nav_list = site.TDT.pages_list.spacebar %}
+    {% when 'spreadsheets' %}
+      {% assign top_nav_list = site.TDT.pages_list.spreadsheets %}
+    {% when 'simulator' %}
+      {% assign top_nav_list = site.TDT.pages_list.simulator %}
+    {% else %}
+      {% assign top_nav_list = nil %}
+{% endcase %}

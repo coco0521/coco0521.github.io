@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.2" baseProfile="tiny" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="426.925px"
+	 height="188.117px" viewBox="0 0 426.925 188.117" overflow="auto" xml:space="preserve">
+<font horiz-adv-x="1000">
+<!-- Copyright 1992, 1994, 1997, 2000, 2004 Adobe Systems Incorporated. All rights reserved. Myriad is either a registered trademark or a trademark of Adobe Systems Incorporated in the United States and/or other countries. -->
+<font-face font-family="MyriadPro-Regular" units-per-em="1000" underline-position="-100" underline-thickness="50"/>
+<missing-glyph horiz-adv-x="500" d="M0,0l500,0l0,700l-500,0M250,395l-170,255l340,0M280,350l170,255l0,-510M80,50l170,255l170,-255M50,605l170,-255l-170,-255z"/>
+<glyph unicode="F" horiz-adv-x="487" d="M76,0l87,0l0,305l255,0l0,72l-255,0l0,224l276,0l0,73l-363,0z"/>
+<glyph unicode="Q" horiz-adv-x="689" d="M657,-26C600,-16 527,0 460,17l0,4C572,60 652,171 652,344C652,543 533,685 350,685C168,685 36,546 36,330C36,113 173,-5 333,-11C346,-11 360,-16 374,-21C452,-48 541,-75 632,-99M343,60C207,60 128,189 129,332C128,478 200,614 347,614C490,614 560,475 560,340C560,186 482,60 343,60z"/>
+<glyph unicode="R" horiz-adv-x="538" d="M76,0l87,0l0,292l82,0C324,289 360,254 380,161C399,77 414,19 425,0l90,0C501,26 485,91 463,185C447,255 416,303 364,321l0,3C435,348 491,407 491,496C491,548 472,594 438,624C396,662 336,679 243,679C183,679 120,674 76,665M163,604C177,608 207,612 249,612C341,611 404,573 404,486C404,409 345,358 252,358l-89,0z"/>
+<glyph unicode="S" horiz-adv-x="493" d="M42,33C78,9 149,-10 214,-10C373,-10 450,80 450,184C450,283 392,338 278,382C185,418 144,449 144,512C144,558 179,613 271,613C332,613 377,593 399,581l24,71C393,669 343,685 274,685C143,685 56,607 56,502C56,407 124,350 234,311C325,276 361,240 361,177C361,109 309,62 220,62C160,62 103,82 64,106z"/>
+<glyph unicode="W" horiz-adv-x="846" d="M277,0l96,351C398,438 413,504 425,571l2,0C436,503 450,437 471,351l85,-351l91,0l191,674l-89,0l-89,-340C639,250 620,175 606,101l-2,0C594,172 576,252 557,332l-82,342l-91,0l-90,-340C271,247 250,167 239,100l-2,0C225,165 207,249 187,333l-80,341l-92,0l171,-674z"/>
+<glyph unicode="a" horiz-adv-x="482" d="M421,0C415,33 413,74 413,116l0,181C413,394 377,495 229,495C168,495 110,478 70,452l20,-58C124,416 171,430 216,430C315,430 326,358 326,318l0,-10C139,309 35,245 35,128C35,58 85,-11 183,-11C252,-11 304,23 331,61l3,0l7,-61M328,163C328,154 326,144 323,135C309,94 269,54 206,54C161,54 123,81 123,138C123,232 232,249 328,247z"/>
+<glyph unicode="c" horiz-adv-x="448" d="M403,84C378,73 345,60 295,60C199,60 127,129 127,241C127,342 187,424 298,424C346,424 379,413 400,401l20,68C396,481 350,494 298,494C140,494 38,386 38,237C38,89 133,-10 279,-10C344,-10 395,6 418,18z"/>
+<glyph unicode="d" horiz-adv-x="564" d="M403,710l0,-289l-2,0C379,460 329,495 255,495C137,495 37,396 38,235C38,88 128,-11 245,-11C324,-11 383,30 410,84l2,0l4,-84l79,0C492,33 491,82 491,125l0,585M403,203C403,189 402,177 399,165C383,99 329,60 270,60C175,60 127,141 127,239C127,346 181,426 272,426C338,426 386,380 399,324C402,313 403,298 403,287z"/>
+<glyph unicode="e" horiz-adv-x="501" d="M462,226C463,235 465,249 465,267C465,356 423,495 265,495C124,495 38,380 38,234C38,88 127,-10 276,-10C353,-10 406,6 437,20l-15,63C389,69 351,58 288,58C200,58 124,107 122,226M123,289C130,350 169,432 258,432C357,432 381,345 380,289z"/>
+<glyph unicode="i" horiz-adv-x="234" d="M161,0l0,484l-88,0l0,-484M117,675C85,675 62,651 62,620C62,590 84,566 115,566C150,566 172,590 171,620C171,651 150,675 117,675z"/>
+<glyph unicode="k" horiz-adv-x="469" d="M160,710l-87,0l0,-710l87,0l0,182l45,50l167,-232l107,0l-213,285l187,199l-106,0l-142,-167C191,300 174,279 162,262l-2,0z"/>
+<glyph unicode="l" horiz-adv-x="236" d="M73,0l88,0l0,710l-88,0z"/>
+<glyph unicode="n" horiz-adv-x="555" d="M73,0l88,0l0,291C161,306 163,321 167,332C182,381 227,422 285,422C368,422 397,357 397,279l0,-279l88,0l0,289C485,455 381,495 314,495C234,495 178,450 154,404l-2,0l-5,80l-78,0C72,444 73,403 73,353z"/>
+<glyph unicode="o" horiz-adv-x="549" d="M278,495C144,495 38,400 38,238C38,85 139,-11 270,-11C387,-11 511,67 511,246C511,394 417,495 278,495M276,429C380,429 421,325 421,243C421,134 358,55 274,55C188,55 127,135 127,241C127,333 172,429 276,429z"/>
+<glyph unicode="1" horiz-adv-x="513" d="M236,0l85,0l0,650l-75,0l-142,-76l17,-67l113,61l2,0z"/>
+<glyph unicode="p" horiz-adv-x="569" d="M73,-198l87,0l0,263l2,0C191,17 247,-11 311,-11C425,-11 531,75 531,249C531,396 443,495 326,495C247,495 190,460 154,401l-2,0l-4,83l-79,0C71,438 73,388 73,326M160,280C160,292 163,305 166,316C183,382 239,425 299,425C392,425 443,342 443,245C443,134 389,58 296,58C233,58 180,100 164,161C162,172 160,184 160,197z"/>
+<glyph unicode="." horiz-adv-x="207" d="M111,-11C148,-11 171,16 171,52C171,89 147,115 112,115C77,115 52,89 52,52C52,16 76,-11 111,-11z"/>
+<glyph unicode="r" horiz-adv-x="327" d="M73,0l87,0l0,258C160,273 162,287 164,299C176,365 220,412 282,412C294,412 303,411 312,409l0,83C304,494 297,495 287,495C228,495 175,454 153,389l-4,0l-3,95l-77,0C72,439 73,390 73,333z"/>
+<glyph unicode=" " horiz-adv-x="212"/>
+<glyph unicode="t" horiz-adv-x="331" d="M93,600l0,-116l-75,0l0,-67l75,0l0,-264C93,96 102,53 127,27C148,3 181,-10 222,-10C256,-10 283,-5 300,2l-4,66C285,65 268,62 245,62C196,62 179,96 179,156l0,261l126,0l0,67l-126,0l0,139z"/>
+<glyph unicode="2" horiz-adv-x="513" d="M460,0l0,73l-292,0l0,2l52,48C357,255 444,352 444,472C444,565 385,661 245,661C170,661 106,633 61,595l28,-62C119,558 168,588 227,588C324,588 356,527 356,461C355,363 280,279 114,121l-69,-67l0,-54z"/>
+<glyph unicode="u" horiz-adv-x="551" d="M478,484l-88,0l0,-297C390,171 387,155 382,142C366,103 325,62 266,62C186,62 158,124 158,216l0,268l-88,0l0,-283C70,31 161,-11 237,-11C323,-11 374,40 397,79l2,0l5,-79l78,0C479,38 478,82 478,132z"/>
+</font>
+
+	<metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.3-c011 66.145661, 2012/02/06-14:56:27        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:xmpGImg="http://ns.adobe.com/xap/1.0/g/img/">
+         <xmp:CreatorTool>Adobe Illustrator CS6 (Macintosh)</xmp:CreatorTool>
+         <xmp:CreateDate>2014-07-30T13:31:27-07:00</xmp:CreateDate>
+         <xmp:Thumbnails>
+            <rdf:Alt>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpGImg:width>256</xmpGImg:width>
+                  <xmpGImg:height>116</xmpGImg:height>
+                  <xmpGImg:format>JPEG</xmpGImg:format>
+                  <xmpGImg:image>/9j/4AAQSkZJRgABAgEASABIAAD/7QAsUGhvdG9zaG9wIDMuMAA4QklNA+0AAAAAABAASAAAAAEA&#xA;AQBIAAAAAQAB/+4ADkFkb2JlAGTAAAAAAf/bAIQABgQEBAUEBgUFBgkGBQYJCwgGBggLDAoKCwoK&#xA;DBAMDAwMDAwQDA4PEA8ODBMTFBQTExwbGxscHx8fHx8fHx8fHwEHBwcNDA0YEBAYGhURFRofHx8f&#xA;Hx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8f/8AAEQgAdAEAAwER&#xA;AAIRAQMRAf/EAaIAAAAHAQEBAQEAAAAAAAAAAAQFAwIGAQAHCAkKCwEAAgIDAQEBAQEAAAAAAAAA&#xA;AQACAwQFBgcICQoLEAACAQMDAgQCBgcDBAIGAnMBAgMRBAAFIRIxQVEGE2EicYEUMpGhBxWxQiPB&#xA;UtHhMxZi8CRygvElQzRTkqKyY3PCNUQnk6OzNhdUZHTD0uIIJoMJChgZhJRFRqS0VtNVKBry4/PE&#xA;1OT0ZXWFlaW1xdXl9WZ2hpamtsbW5vY3R1dnd4eXp7fH1+f3OEhYaHiImKi4yNjo+Ck5SVlpeYmZ&#xA;qbnJ2en5KjpKWmp6ipqqusra6voRAAICAQIDBQUEBQYECAMDbQEAAhEDBCESMUEFURNhIgZxgZEy&#xA;obHwFMHR4SNCFVJicvEzJDRDghaSUyWiY7LCB3PSNeJEgxdUkwgJChgZJjZFGidkdFU38qOzwygp&#xA;0+PzhJSktMTU5PRldYWVpbXF1eX1RlZmdoaWprbG1ub2R1dnd4eXp7fH1+f3OEhYaHiImKi4yNjo&#xA;+DlJWWl5iZmpucnZ6fkqOkpaanqKmqq6ytrq+v/aAAwDAQACEQMRAD8A9U4q7FXYq7FXYq7FXYq7&#xA;FXYq7FXYq7FXYq7FXYq7FXYq7FXYq+d/zK/5TjVf+Mif8mkzpNF/dRdRqPrLGcymh2KuxV2Kvo78&#xA;vv8AlC9I/wCMA/Wc5rV/3sve7jB9AZBmM3OxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2Kux&#xA;V2KuxV2KuxV2KuxV2KpdrvmHS9Dszd6jKUj34qql2YjsAP1nbLcWGWQ1FhPIIiy+fPOOpDU/Ml5q&#xA;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</xmpGImg:image>
+               </rdf:li>
+            </rdf:Alt>
+         </xmp:Thumbnails>
+      </rdf:Description>
+      <rdf:Description rdf:about=""
+            xmlns:xmpTPg="http://ns.adobe.com/xap/1.0/t/pg/"
+            xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#"
+            xmlns:stFnt="http://ns.adobe.com/xap/1.0/sType/Font#"
+            xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">
+         <xmpTPg:MaxPageSize rdf:parseType="Resource">
+            <stDim:w>426.925293</stDim:w>
+            <stDim:h>188.117188</stDim:h>
+            <stDim:unit>Points</stDim:unit>
+         </xmpTPg:MaxPageSize>
+         <xmpTPg:NPages>1</xmpTPg:NPages>
+         <xmpTPg:HasVisibleTransparency>False</xmpTPg:HasVisibleTransparency>
+         <xmpTPg:HasVisibleOverprint>False</xmpTPg:HasVisibleOverprint>
+         <xmpTPg:Fonts>
+            <rdf:Bag>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>MyriadPro-Regular</stFnt:fontName>
+                  <stFnt:fontFamily>Myriad Pro</stFnt:fontFamily>
+                  <stFnt:fontFace>Regular</stFnt:fontFace>
+                  <stFnt:fontType>Open Type</stFnt:fontType>
+                  <stFnt:versionString>Version 2.102;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.33168</stFnt:versionString>
+                  <stFnt:composite>False</stFnt:composite>
+                  <stFnt:fontFileName>MyriadPro-Regular.otf</stFnt:fontFileName>
+               </rdf:li>
+            </rdf:Bag>
+         </xmpTPg:Fonts>
+         <xmpTPg:PlateNames>
+            <rdf:Seq>
+               <rdf:li>Cyan</rdf:li>
+               <rdf:li>Magenta</rdf:li>
+            </rdf:Seq>
+         </xmpTPg:PlateNames>
+         <xmpTPg:SwatchGroups>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:groupName>Default Swatch Group</xmpG:groupName>
+                  <xmpG:groupType>0</xmpG:groupType>
+               </rdf:li>
+            </rdf:Seq>
+         </xmpTPg:SwatchGroups>
+      </rdf:Description>
+      <rdf:Description rdf:about=""
+            xmlns:dc="http://purl.org/dc/elements/1.1/">
+         <dc:format>image/svg+xml</dc:format>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>
+	</metadata>
+<g>
+	<rect y="73.592" fill="#5783C3" width="65.916" height="40.934"/>
+	<text transform="matrix(1 0 0 1 24.21 90.3799)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="12">F</text>
+	<text transform="matrix(1 0 0 1 29.7422 90.3799)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="12">i</text>
+	<text transform="matrix(1 0 0 1 32.5498 90.3799)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="12">l</text>
+	<text transform="matrix(1 0 0 1 35.3818 90.3799)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="12">e</text>
+	<text transform="matrix(1 0 0 1 15.481 104.7803)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="12">R</text>
+	<text transform="matrix(1 0 0 1 21.9849 104.7803)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="12">e</text>
+	<text transform="matrix(1 0 0 1 27.9966 104.7803)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="12">a</text>
+	<text transform="matrix(1 0 0 1 33.7808 104.7803)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="12">d</text>
+	<text transform="matrix(1 0 0 1 40.5488 104.7803)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="12">e</text>
+	<text transform="matrix(1 0 0 1 46.5605 104.7803)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="12">r</text>
+</g>
+<g>
+	<g>
+		<rect x="128.333" y="73.592" fill="#5783C3" width="65.916" height="40.934"/>
+		<ellipse fill="#5783C3" cx="128.333" cy="94.058" rx="11.523" ry="20.467"/>
+	</g>
+	<text transform="matrix(1 0 0 1 142.3838 90.3809)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="12">W</text>
+	<text transform="matrix(1 0 0 1 152.1396 90.3809)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="12">o</text>
+	<text transform="matrix(1 0 0 1 158.7275 90.3809)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="12">r</text>
+	<text transform="matrix(1 0 0 1 162.6997 90.3809)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="12">k</text>
+	<text transform="matrix(1 0 0 1 138.772 104.7803)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="12">Q</text>
+	<text transform="matrix(1 0 0 1 147.0757 104.7803)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="12">u</text>
+	<text transform="matrix(1 0 0 1 153.688 104.7803)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="12">e</text>
+	<text transform="matrix(1 0 0 1 159.6997 104.7803)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="12">u</text>
+	<text transform="matrix(1 0 0 1 166.3115 104.7803)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="12">e</text>
+	<ellipse fill="#5783C3" stroke="#FFFFFF" stroke-miterlimit="10" cx="194.25" cy="94.058" rx="11.523" ry="20.467"/>
+</g>
+<g>
+	<g>
+		<rect x="256.667" fill="#5783C3" width="65.916" height="40.933"/>
+		<text transform="matrix(1 0 0 1 269.8804 23.9883)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="12">W</text>
+		<text transform="matrix(1 0 0 1 279.8394 23.9883)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="12">r</text>
+		<text transform="matrix(1 0 0 1 283.812 23.9883)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="12">i</text>
+		<text transform="matrix(1 0 0 1 286.6196 23.9883)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="12">t</text>
+		<text transform="matrix(1 0 0 1 290.519 23.9883)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="12">e</text>
+		<text transform="matrix(1 0 0 1 296.5317 23.9883)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="12">r</text>
+		<text transform="matrix(1 0 0 1 300.4556 23.9883)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="12"> </text>
+		<text transform="matrix(1 0 0 1 302.9995 23.9883)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="12">1</text>
+	</g>
+	<g>
+		<rect x="256.667" y="49.061" fill="#5783C3" width="65.916" height="40.933"/>
+		<text transform="matrix(1 0 0 1 269.8794 73.0488)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="12">W</text>
+		<text transform="matrix(1 0 0 1 279.8394 73.0488)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="12">r</text>
+		<text transform="matrix(1 0 0 1 283.812 73.0488)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="12">i</text>
+		<text transform="matrix(1 0 0 1 286.6187 73.0488)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="12">t</text>
+		<text transform="matrix(1 0 0 1 290.519 73.0488)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="12">e</text>
+		<text transform="matrix(1 0 0 1 296.5308 73.0488)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="12">r</text>
+		<text transform="matrix(1 0 0 1 300.4546 73.0488)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="12"> </text>
+		<text transform="matrix(1 0 0 1 302.9995 73.0488)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="12">2</text>
+	</g>
+	<g>
+		<rect x="256.667" y="147.184" fill="#5783C3" width="65.916" height="40.934"/>
+		<text transform="matrix(1 0 0 1 269.6284 171.1699)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="12">W</text>
+		<text transform="matrix(1 0 0 1 279.5884 171.1699)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="12">r</text>
+		<text transform="matrix(1 0 0 1 283.5601 171.1699)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="12">i</text>
+		<text transform="matrix(1 0 0 1 286.3687 171.1699)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="12">t</text>
+		<text transform="matrix(1 0 0 1 290.2681 171.1699)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="12">e</text>
+		<text transform="matrix(1 0 0 1 296.2808 171.1699)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="12">r</text>
+		<text transform="matrix(1 0 0 1 300.2046 171.1699)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="12"> </text>
+		<text transform="matrix(1 0 0 1 302.7476 171.1699)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="12">n</text>
+	</g>
+	<g>
+		<rect x="256.667" y="98.122" fill="#5783C3" width="65.916" height="40.933"/>
+		<text transform="matrix(1 0 0 1 285.8999 122.1104)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="12">...</text>
+	</g>
+</g>
+<g>
+	<rect x="377.646" y="74.342" fill="#5783C3" width="48.777" height="39.432"/>
+	<ellipse fill="#5783C3" cx="402.037" cy="113.774" rx="24.389" ry="6.894"/>
+	<ellipse fill="#5783C3" stroke="#FFFFFF" stroke-miterlimit="10" cx="402.037" cy="74.343" rx="24.389" ry="6.894"/>
+	<text transform="matrix(1 0 0 1 387.0776 101.0273)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="12">S</text>
+	<text transform="matrix(1 0 0 1 392.9937 101.0273)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="12">p</text>
+	<text transform="matrix(1 0 0 1 399.8208 101.0273)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="12">a</text>
+	<text transform="matrix(1 0 0 1 405.605 101.0273)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="12">c</text>
+	<text transform="matrix(1 0 0 1 410.9087 101.0273)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="12">e</text>
+</g>
+<g>
+	<g>
+		<line fill="none" stroke="#5783C3" stroke-miterlimit="10" x1="65.916" y1="94.058" x2="109.75" y2="94.058"/>
+		<g>
+			<polygon fill="#5783C3" points="116.81,94.058 106.861,98.124 109.222,94.058 106.861,89.994 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line fill="none" stroke="#5783C3" stroke-miterlimit="10" x1="194.25" y1="94.058" x2="252.101" y2="25.851"/>
+		<g>
+			<polygon fill="#5783C3" points="256.667,20.466 253.333,30.684 251.759,26.253 247.132,25.425 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line fill="none" stroke="#5783C3" stroke-miterlimit="10" x1="196.979" y1="94.058" x2="250.136" y2="72.211"/>
+		<g>
+			<polygon fill="#5783C3" points="256.667,69.527 249.009,77.07 249.648,72.412 245.919,69.55 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line fill="none" stroke="#5783C3" stroke-miterlimit="10" x1="196.979" y1="94.058" x2="250.137" y2="115.904"/>
+		<g>
+			<polygon fill="#5783C3" points="256.667,118.588 245.919,118.566 249.649,115.704 249.011,111.047 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line fill="none" stroke="#5783C3" stroke-miterlimit="10" x1="196.979" y1="94.058" x2="252.22" y2="162.167"/>
+		<g>
+			<polygon fill="#5783C3" points="256.667,167.65 247.244,162.484 251.888,161.756 253.557,157.361 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line fill="none" stroke="#5783C3" stroke-miterlimit="10" x1="322.582" y1="20.466" x2="372.93" y2="76.539"/>
+		<g>
+			<polygon fill="#5783C3" points="377.646,81.792 367.975,77.105 372.578,76.146 374.023,71.674 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line fill="none" stroke="#5783C3" stroke-miterlimit="10" x1="322.582" y1="67.449" x2="371.111" y2="87.318"/>
+		<g>
+			<polygon fill="#5783C3" points="377.646,89.994 366.897,89.986 370.623,87.118 369.979,82.462 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line fill="none" stroke="#5783C3" stroke-miterlimit="10" x1="322.582" y1="118.588" x2="371.027" y2="100.582"/>
+		<g>
+			<polygon fill="#5783C3" points="377.646,98.122 369.736,105.398 370.533,100.766 366.903,97.777 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line fill="none" stroke="#5783C3" stroke-miterlimit="10" x1="322.582" y1="167.65" x2="372.929" y2="111.577"/>
+		<g>
+			<polygon fill="#5783C3" points="377.646,106.323 374.023,116.441 372.576,111.971 367.975,111.011 			"/>
+		</g>
+	</g>
+</g>
+</svg>

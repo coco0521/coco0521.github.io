@@ -1,0 +1,8 @@
+- url: ../assets/themes/as/images/TAS7753.png
+  title: TAS7753 - [ Simulate Space Data with the ASSimulator Tool ]
+  desc: This movie shows you the steps to use the AS Simulation tool, available for free from activespaces.tibco.com. This tool allows you to define data schema in XML template files, to generate sample Tuples that are PUT into a Space. You can also perform other Space operations with this Java tool.
+  link: //www.youtube.com/embed/HHOftQ8_YFQ?list=PLnmoGGHHJldiCwsfzlgHo1agWIwz-jKhM
+- url: ../assets/themes/as/images/TAS7754.png
+  title: TAS7754 - [ Manage and Monitor Spaces with the SpaceBar Tool ]
+  desc: This movie shows you the steps to use the SpaceBar tool, available for free from activespaces.tibco.com. This tool allows you to manage and monitor Spaces and Metaspaces, browse Spaces, as well as directly edit Space data.
+  link: //www.youtube.com/embed/EMeI7lhYJeg?list=PLnmoGGHHJldiCwsfzlgHo1agWIwz-jKhM

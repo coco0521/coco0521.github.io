@@ -1,0 +1,22 @@
+{% capture TDTcache %}
+  <!--
+  - Dynamically set liquid variables for working with URLs/paths
+  -->
+  {% if site.TDT.setup.provider == "custom" %}
+    {% include custom/setup %}
+  {% else %}
+    {% if site.safe and site.TDT.BASE_PATH and site.TDT.BASE_PATH != '' %}
+      {% assign BASE_PATH = site.TDT.BASE_PATH %}
+      {% assign HOME_PATH = site.TDT.BASE_PATH %}
+    {% else %}
+      {% assign BASE_PATH = nil %}
+      {% assign HOME_PATH = "/" %}
+    {% endif %}
+
+    {% if site.TDT.ASSET_PATH %}
+      {% assign ASSET_PATH = site.TDT.ASSET_PATH %}
+    {% else %}
+      {% capture ASSET_PATH %}{{ BASE_PATH }}/assets/themes/{{ page.theme.name }}{% endcapture %}
+    {% endif %}  
+  {% endif %}
+{% endcapture %}{% assign TDTcache = nil %}

@@ -1,0 +1,18 @@
+<header class="jumbotron subhead">
+    <div class="container">
+        <h1>{{ page.subhead }}</h1>
+    </div>
+</header>
+<div class="container-fluid">
+    <div class="row-fluid">
+        <div class="span3 bs-docs-sidebar">
+            {% include TDT/get_side_nav_list %}
+            {% include themes/tea/side-nav-with-header.html %}
+        </div>
+        <div class="span9">
+            <div class="as-docs-content-container">
+            {{ content }}
+            </div>
+        </div>
+    </div>
+</div>

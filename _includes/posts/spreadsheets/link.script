@@ -1,0 +1,3 @@
+# refer to https://github.com/TIBCOSoftware/as-tools/tree/master/as-spreadsheets/src/site
+
+ln -s ../../../../as-tools/as-spreadsheets/src/site

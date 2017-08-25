@@ -1,0 +1,6 @@
+- title: In-memory data caching
+  desc: Reduce response times for high demand customer-facing applications by speeding up access to systems of record based on traditional data storage technologies.
+- title: Shared nothing persistence
+  desc: Transform terabytes of operational data into a fast system of record. Scale at the speed of your business using inexpensive commodity or virtualized hardware.
+- title: Filtered & indexed continuous queries
+  desc: Query once for dynamic delivery of real time content to applications on demand.

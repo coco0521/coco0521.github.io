@@ -1,0 +1,7 @@
+<ul class="nav nav-list bs-docs-sidenav affix-top">
+    {% for item in page.sidenav %}
+    <li>
+        <a href="#{{ item.anchor }}"><i class="glyphicon glyphicon-chevron-up"></i> {{ item.text }}</a>
+    </li>
+    {% endfor %}
+</ul>

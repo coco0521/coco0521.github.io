@@ -1,0 +1,3 @@
+# refer to https://github.com/TIBCOSoftware/as-tools/tree/master/as-simulator/src/site
+
+ln -s ../../../../as-tools/as-simulator/src/site

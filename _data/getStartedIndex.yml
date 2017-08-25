@@ -1,0 +1,3 @@
+---
+whats_next_title:  What's Next?
+whats_next_content_p1: Now that you've learned how to write a very basic Java program using ActiveSpaces, you can learn more about ActiveSpaces by working through each of the examples documented in Chapter 5 of the TIBCO ActiveSpaces Developer's Guide. Start with the ASOperations example which will build on what you have learned here but additionally teach you how to perform operations such as *put* and *get* with multiple tuples, browse the data in a Space, lock and unlock the data in a Space, and use transactions

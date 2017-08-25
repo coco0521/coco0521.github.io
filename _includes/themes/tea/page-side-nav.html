@@ -1,0 +1,15 @@
+<header class="jumbotron subhead">
+    <div class="container">
+        <h1>{{ page.subhead }}</h1>
+    </div>
+</header>
+<div class="container-fluid">
+    <div class="row-fluid">
+        <div class="span3 bs-docs-sidebar">
+            {% include themes/tea/sidenav.html %}
+        </div>
+        <div class="span9">
+            {{ content }}
+        </div>
+    </div>
+</div>

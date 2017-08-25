@@ -1,0 +1,154 @@
+# Set the encoding
+encoding: utf-8
+pygments: true
+markdown: kramdown
+
+safe: false
+port: 4002
+
+# Themes are encouraged to use these universal variables
+# so be sure to set them if your theme uses them.
+# Page title 
+title : ActiveSpaces | Enterprise NoSQL In-Memory Data Grid
+author :
+  name : Shaoke Xu(Blithe)
+  email : sxu@tibco-support.com
+
+# All TIBCO Document Template specific configurations are namespaced into this hash
+#
+TDT :
+  version : 0.1.0
+  footer_text: TIBCO ActiveSpaces Copyright &copy; 2014 TIBCO Software Inc. All rights reserved. Proprietary and confidential.
+  site_url: http://activespaces.tibco.com
+
+  # All links will be namespaced by BASE_PATH if defined.
+  # Links in your website should always be prefixed with {{BASE_PATH}}
+  # however this value will be dynamically changed depending on your deployment situation.
+  #
+  # CNAME (http://yourcustomdomain.com)
+  #   DO NOT SET BASE_PATH
+  #   (urls will be prefixed with "/" and work relatively)
+  #
+  # GitHub Pages (http://username.github.io)
+  #   DO NOT SET BASE_PATH
+  #   (urls will be prefixed with "/" and work relatively)
+  #
+  # GitHub Project Pages (http://username.github.io/project-name)
+  #
+  #   A GitHub Project site exists in the `gh-pages` branch of one of your repositories.
+  #  REQUIRED! Set BASE_PATH to: http://username.github.io/project-name
+  #
+  # CAUTION:
+  #   - When in Localhost, your site will run from root "/" regardless of BASE_PATH
+  #   - Only the following values are falsy: ["", null, false]
+  #   - When setting BASE_PATH it must be a valid url.
+  #     This means always setting the protocol (http|https) or prefixing with "/"
+  BASE_PATH : /as-website
+
+  # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
+  # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
+  #
+  # Override this by defining an absolute path to assets here.
+  # ex:
+  #   http://s3.amazonaws.com/yoursite/themes/watermelon
+  #   /assets
+  #
+  ASSET_PATH : false
+
+  # Settings for all other include helpers can be defined by creating
+  # a hash with key named for the given helper. ex:
+  #
+  #   pages_list :
+  #     provider : "custom"
+  #
+  # Setting any helper's provider to 'custom' will bypass the helper code
+  # and include your custom code. Your custom file must be defined at:
+  #   ./_includes/custom/[HELPER]
+  # where [HELPER] is the name of the helper you are overriding.
+  pages_list :
+    activespaces:
+        - title: "Tools"
+          sub:
+            - title: "SpaceBar"
+              url: "/tools/spacebar/index.html"
+            - title: "Delimited Files"
+              url: "/tools/delimitedfiles/index.html"
+            - title: "Spreadsheets"
+              url: "/tools/spreadsheets/index.html"
+            - title: "Simulator"
+              url: "/tools/simulator/index.html"
+            - title: "Databases"
+              url: "/tools/db/index.html"
+        - title: "Add-onsss"
+          sub:
+            - title: "JDBC Driver"
+              url: "/add-ons/jdbcdriver/index.html"
+        - title: "Get Started"
+          url: "/getstarted/index.html"             
+        - title: "Resources"
+          sub:
+            - title: "Download"
+              url: "http://tap.tibco.com/storefront/trialware/tibco-activespaces/prod15306.html"
+            - title: "Videos"
+              url: "/videos/index.html"
+            - title: "Collateral"
+              url: "http://www.tibco.com/products/automation/in-memory-computing/in-memory-data-grid/activespaces-enterprise-edition/default.jsp"
+            - title: "TIBCOmmunity"
+              url: "https://tibbr.tibcommunity.com/tibbr/#!/subjects/87223"
+            - title: "Documentation"
+              url: "https://docs.tibco.com/products/tibco-activespaces"
+    delimitedfiles:
+        - title: "Get Started & Download"
+          url: "/tools/delimitedfiles/index.html"
+        - title: "Configuration"
+          url: "/tools/delimitedfiles/configuration.html"
+        - title: "Architecture"
+          url: "/tools/delimitedfiles/architecture.html"
+        - title: "Usage"
+          url: "/tools/delimitedfiles/usage.html"
+        - title: "FAQ"
+          url: "/tools/delimitedfiles/faq.html"
+    jdbcdriver:
+        - title: "Download"
+          url: "/add-ons/jdbcdriver/index.html"
+        - title: "Read Me"
+          url: "/add-ons/jdbcdriver/readme.html"
+    spacebar:
+        - title: "SpaceBar"
+          url: "/tools/spacebar/index.html"
+        - title: "Download"
+          url: "/tools/spacebar/download.html"
+        - title: "Get Started"
+          url: "/tools/spacebar/getstarted.html"
+        - title: "New and Noteworthy"
+          url: "/tools/spacebar/news.html"
+        - title: "FAQ"
+          url: "/tools/spacebar/faq.html"
+    spreadsheets:
+        - title: "Get Started & Download"
+          url: "/tools/spreadsheets/index.html"
+        - title: "Configuration"
+          url: "/tools/spreadsheets/configuration.html"
+        - title: "Usage"
+          url: "/tools/spreadsheets/usage.html"
+        - title: "FAQ"
+          url: "/tools/spreadsheets/faq.html"
+    simulator:
+        - title: "Get Started & Download"
+          url: "/tools/simulator/index.html"
+        - title: "Configuration"
+          url: "/tools/simulator/configuration.html"
+        - title: "Usage"
+          url: "/tools/simulator/usage.html"
+        - title: "FAQ"
+          url: "/tools/simulator/faq.html"
+    db:
+        - title: "Get Started & Download"
+          url: "/tools/db/index.html"
+        - title: "Configuration"
+          url: "/tools/db/configuration.html"
+        - title: "Usage"
+          url: "/tools/db/usage.html"
+        - title: "FAQ"
+          url: "/tools/db/faq.html"
+

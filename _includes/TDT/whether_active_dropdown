@@ -1,0 +1,6 @@
+{% assign _bactive_ = false %}
+{% for subNode in __array__ %}
+    {% if subNode.url == page.url %}
+        {% assign _bactive_ = true %}
+    {% endif %}
+{% endfor %}

@@ -1,0 +1,34 @@
+<ul class="nav bs-docs-sidenav leftside sideborder" id="lside">
+    {% for item in _side_nav_list_ %}
+        {% assign __array__ = item.sub %}
+        {% include TDT/whether_active_dropdown %}
+        <li class="{% if item.sub %} accordion-group1 {% endif %} {% if page.url == item.url or _bactive_ %}  active{% endif %}">
+            {% if item.sub %}
+            <div class="accordion-heading1">
+                <a data-toggle="collapse" href="#collapse{{forloop.index}}">
+                    {{ item.title }}
+                </a>
+            </div>
+            {%else%}
+            {% assign _temp_url = item.url %}
+            {% include TDT/get_url%}
+            <div>
+                <a href="{{ _url_ }}" >
+                    {{ item.title }}
+                </a>
+            </div>
+            {% endif %}
+            {% if item.sub %}
+            <ul class="collapse" id="collapse{{forloop.index}}">
+                {% for subItem in item.sub %}
+                <li class="{% if page.url == subItem.url %} active {% endif %}">
+                    {% assign _temp_url = subItem.url %}
+                    {% include TDT/get_url%}
+                    <div><a href="{{ _url_ }}">{{ subItem.title }}</a></div>
+                </li>
+                {% endfor %}
+            </ul>
+            {% endif %}
+        </li>
+    {% endfor %}
+</ul>

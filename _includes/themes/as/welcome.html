@@ -1,0 +1,61 @@
+<script src="{{ ASSET_PATH }}/as/js/asvideo.js"></script>
+<div class="container wholeW">
+  <div class="indexmain">
+      <p class="maintitle">ActiveSpaces<sup>&reg;</sup></p>
+      <p class="detail">A high-performance, distributed, persistent, and event-enabled data-grid</p>
+      <a href="http://tap.tibco.com/storefront/trialware/tibco-activespaces/prod15306.html" class="download">Download</a>
+  </div>
+  <div class="indexcontent">
+    <p class="contitle">Consistent, low-latency, elastic data grid</p>
+    <div class="row keylist">
+      {% for item in site.data.indexFeatures %}
+        <div class="col-lg-4 col-md-4 col-sm-4 pull-left">
+          <p class="listitle">{{item.title}}</p>
+          <p class="listcontent">{{item.desc}}</p>
+        </div>
+        {% endfor %}
+    </div>
+  </div>
+  <div class="videopart">
+    <div class="overlay" style="display:none" ></div>
+    <p class="vidTitle">Videos</p>
+    <div class="row vidList">
+      {% for item in site.data.indexVideos %}
+      <span class="glyphicon glyphicon-remove closebtn" style="display:none"></span>
+      <div class="playDiv" style="display:none">
+        <div class="responsive-video" >
+          <div class="embed-responsive embed-responsive-16by9">
+            <iframe class="embed-responsive-item iframeW" src={{item.link}}></iframe>
+          </div>
+        </div>
+      </div>
+        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 pull-left responsive-video vidDiv">
+          <div class="wholeDiv">
+            <div class="mask">
+              <span class="glyphicon glyphicon-play-circle iconSize f60"></span>
+            </div>
+            <img class="videolist" src={{item.url}} class="img-responsive">
+          </div>
+          <p class="videotitle">{{item.title}}</p>
+          <p class="videocont" >{{item.desc}}</p>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+<script type="text/javascript">
+
+$(document).ready(function(){
+  $(window).scroll(function() {
+    resizeHeight();
+    resizeVideo();
+  });
+  $(window).resize(function() {
+    resizeHeight();
+    resizeVideo();
+  });
+});
+clickMask();
+
+
+</script>
